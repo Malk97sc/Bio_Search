@@ -1,0 +1,10 @@
+method,Item,Cantidad,Peso,Valor
+SA (original),2,2,1.034,40954
+SA (original),3,7,1.457,38964
+SA (original),4,5,1.0,47814
+SA (original),9,1,1.007,25050
+SA (original),13,1,1.566,41474
+SA (original),Total,16,19.84,660250
+SA (original),Iteraciones,,1000,
+SA (original),Convergencia,,1,
+SA (original),Tiempo (s),,0.011,

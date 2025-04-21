@@ -1,0 +1,11 @@
+method,Item,Cantidad,Peso,Valor
+ACO (competitiva),2,2,1.034,40954
+ACO (competitiva),3,6,1.457,38964
+ACO (competitiva),4,5,1.0,47814
+ACO (competitiva),11,1,1.176,31072
+ACO (competitiva),12,1,1.391,34993
+ACO (competitiva),13,1,1.566,41474
+ACO (competitiva),Total,16,19.94,662301
+ACO (competitiva),Iteraciones,,700,
+ACO (competitiva),Convergencia,,126,
+ACO (competitiva),Tiempo (s),,1.496,
