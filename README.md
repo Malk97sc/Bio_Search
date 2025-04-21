@@ -1,6 +1,6 @@
 # Knapsack Problem – Bioinspired Methods
 
-This project solves the classic **0/1 Knapsack Problem** using two bioinspired algorithms:  
+This project solves the classic **Knapsack Problem** using two bioinspired algorithms:  
 **Simulated Annealing (SA)** and **Ant Colony Optimization (ACO)**.  
 It compares their performance across different configurations in terms of solution quality, convergence behavior, and execution time.
 
