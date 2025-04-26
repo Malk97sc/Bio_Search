@@ -4,7 +4,7 @@ This project solves the classic **Knapsack Problem** using two bioinspired algor
 **Simulated Annealing (SA)** and **Ant Colony Optimization (ACO)**.  
 It compares their performance across different configurations in terms of solution quality, convergence behavior, and execution time.
 
-## 🧪 How to Run
+## How to Run
 
 To run the main experiment using a specific configuration:
 
